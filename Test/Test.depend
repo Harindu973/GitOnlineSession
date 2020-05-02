@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1588431298 source:/home/thilina/Documents/Codeblocks/Test/main.c
+	<stdio.h>
+	<stdlib.h>
+
